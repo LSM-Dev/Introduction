@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Lee-Andy
-- 👀 I’m interested in game develop and back-end.
-- 🌱 I’m currently learning C#,Python and JS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in game develop and Data science.
+- 🌱 I’m currently learning C# and Python.
 - 💻 My develop blog - https://lee-andy.github.io/
 
 <!---
